@@ -1,6 +1,8 @@
 import matplotlib.pyplot as plt
+import matplotlib.animation as animation
 import numpy as np
 import math
+import threading
 
 #POINT DATASET
 x=[20,28,15,20,18,25,15,18,18,20,25,30,25,22,30,22,38,40,38,30,22,20,35,33,35]
